@@ -1,0 +1,3 @@
+https://github.com/plotly/datasets/blob/master/imports-85.csv
+
+https://s3-api.us-geo.objectstorage.softlayer.net/cf-courses-data/CognitiveClass/DV0101EN/labs/Data_Files/Canada.xlsx
